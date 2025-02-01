@@ -1,0 +1,20 @@
+his repository contains R scripts and datasets for  Statistical Analysis Below is a summary of each task and instructions to set up and run the projects.
+
+Statistical Analysis
+Description: Analyzes the Concrete Compressive Strength Dataset using EDA, correlation analysis, regression modeling, and hypothesis testing.
+
+Files:
+
+Statistical Analysis For Concrete Compressive Strength Dataset.R
+
+Steps:
+
+Place the script and dataset in the same directory.
+
+Open the script in RStudio.
+
+Set the working directory using setwd("path/to/your/directory").
+
+Install required packages (readxl, ggplot2, dplyr, corrplot, caret).
+
+Run the script using source("Statistical Analysis For Concrete Compressive Strength Dataset.R")
